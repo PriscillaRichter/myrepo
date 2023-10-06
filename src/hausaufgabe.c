@@ -14,7 +14,8 @@ int main()
         return 1;
     }
 
-    printf("Login mit Daten:\n")
+    printf("Login mit Daten:\n");
+    int test;
 
     do {
         ch = fgetc(ptr);
